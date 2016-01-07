@@ -2,31 +2,31 @@
 #+Author: Evan Misshula
 
 * Introduction 
-This is the repo for Advanced Data Structures CSCI-373, sections 01
-and 02, Fall 2015, you have to add a directory and upload a picture of
-your face.
+This week you learned git and that makes my life /so/ much easier.  I 
+am going to ask fork this repo and add a few things to it and send me 
+a pull request.
 
 This is the README file for the repo.  Everyone is going to create
-a fork of this repository and create a directory whose name is
+a fork of this repository and find the directory whose name is
 
-~firstName_lastName~
+~firstName-lastName~
 
 where your last name is separated from your first with an underscore
 "_".  For example, my name is Evan Misshula. My directory would be:
 
-~Evan Misshula~
+~evan-misshula~
 
  Once you have done this copy a picture of your face into the
-directory.  Next you will send me a pull request from your branch to
-add it to the repo. If you have a team that consists of more than the
-person who has uploaded the file, please send me a picture of everyone
-on your team. Name the pictures with your individual names.
+directory.  You will also fill out the student survey in the directory with your
+name. Finally you will send me a pull request from your branch to
+add it to the repo. 
 
 Read on for details.
 
-* Set up your github account
 
-Set up the github account.  The next thing you should do is 
+* Fork this repo
+
+The First thing you that is necessary to complete this is to
 fork the repository.  That means that you create your own copy of the
 repository in your github account.
 
@@ -38,6 +38,8 @@ requires you to download the git program to your local machine.  You
 will then need to install it.  There are several ways to do this.
 
 * Mac and windows
+
+Again this is for reference only
 
 ** Mac 
 You just need to go this link:
@@ -52,7 +54,10 @@ http://git-scm.com/download/win
 
 Double click on the downloaded file and install in the usual way.
 
-* Configure git on your local machine [Don't skip]
+* Configure git on your local machine
+
+Again this is for reference only
+
 ** On your machine open a terminal 
 *** Mac
 Left click on launchbad (the icon with the rocket on it).  In the
@@ -118,6 +123,9 @@ Your Documents are in C:\Users\<your name>\Documents.  In the terminal type:
 ~cd Documents~
 
 * Set global git variables
+
+We did not do this in class.  It won't hurt to do this.
+
 Tell Git your name so your commits will be properly labeled. Type
 everything after the $ here:
 
@@ -135,7 +143,9 @@ up for GitHub.
 git config --global user.email "YOUR EMAIL ADDRESS"
 #+END_SRC
 
-* Clone the repository from your github account to your local machine
+
+
+* Clone this repository from your github account to your local machine
 
 Now go back to your browser and open up the repo that you forked.  On
 the right side of the page near the top, there is a box under
@@ -144,21 +154,21 @@ fork.  Here is a picture.
 
 [[file:images/url.png]]
 
-Make sure the protocol is set to https. The others require you to set
-up ssh keys which are worth a whole tutorial to themselves.  Now that
-you know what you are looking for.  Copy it to the clipboard by
-left-clicking the button. You clone it by typing:
+Make sure the protocol is set to ssh. This way you can use the key
+that you already set up.  Now that you know what you are looking for.
+Copy it to the clipboard by left-clicking the button. You clone it by
+typing:
 
 #+BEGIN_SRC sh :exports code
-git clone https@github.com:<your_github_username>/gitTutorial2.git
+git clone https@github.com:<your_github_username>/residentSurvey.git
 #+END_SRC
 
 Now you have your own copy of the repo both on your machine and in your github account.
-If you want to work with the files in the ~gitTutorial2~ directory, you should change into 
+If you want to work with the files in the ~residentSurveys~ directory, you should change into 
 that directory. To do this you should type:
 
 #+BEGIN_SRC sh :exports code
-cd gitTutorial2
+cd residentSurveys
 #+END_SRC
 
 In an text editor, you can look at any of the files. You can also list the files by 
@@ -188,23 +198,14 @@ branch, type:
 
 * Create a directory
 
-If you listed the files in the gitTutorial2 directory, you should see
-that there is a directory called students. You should change
-directories into it by typing:
+If you listed the files in the residentSurveys directory, you should
+see that there is a directory called residents. Inside of that is a
+cohort directory. Your cohort is Sp2016. You should change directories
+into it by typing:
 
 #+BEGIN_SRC sh :exports code
-cd students/sect01
+cd residents/Sp2016
 #+END_SRC
-
-or 
-
-#+BEGIN_SRC sh :exports code
-cd students/sect01
-#+END_SRC
-
-Create a directory with your first and last name from the command line:
-
-~mkdir <firstName_LastName>~
 
 * Copy your picture into that directory
 
@@ -215,7 +216,7 @@ directory you just created.
 
 Make sure your image file is called your ~firstName_lastName.jpg~ or
 ~firstName_lastName.png~.  For example, my photo would be
-~Evan_Misshula.jpg~.
+~evan_misshula.jpg~.
 
 Next add your picture to your branch.  You will do
 this by adding your image file to your branch by typing:
@@ -227,10 +228,12 @@ git add firstName_lastName.jpg
 
 * Commit your local changes
 
-You should save or commit your changes with a message.  Type the following:
+You should save or commit your changes with a message.  I opened an
+issue for each of you in github.  Type the following:
+
 
 #+BEGIN_SRC sh :exports code
-git commit -m "added my picture."
+git commit -m "added my picture. closes #<your-issue-number>"
 #+END_SRC
 
 To update your copy on github you have to push your changes which are in 
@@ -252,7 +255,7 @@ forked both the (fetch) where you pull from and where you push to
 be synced by the fork.
 
 #+BEGIN_SRC sh :exports code
-git remote add upstream git://github.com/csci373-01-02/gitTutorial2.git
+git remote add upstream git://github.com/EvanMisshula/residentSurveys.git
 #+END_SRC
 
 ** Sync the fork
@@ -274,7 +277,27 @@ your ~firstName~ branch.
 git merge upstream/firstName
 #+END_SRC
 
-You will want to save those to your github account as well.  So to finish, type:
+* Fill out the survey
+
+The reason I want a picture of you and the reason why I want you to
+fill out the survey is because I want to get to know who you are.  I
+also value your feedback and so does the whole Queens College, SBS and
+NYCDA team.  Your comments are going to have an big impact on Computer
+Science at Queens College and across CUNY.
+
+* Open the survey
+
+Git does much better with flat files than spreadsheets.  I am
+including the survey as a CSV file but you should open it in excel to
+fill it out.  Just save it as a CSV.
+
+#+BEGIN_SRC sh :exports code
+git add residentSurvey1.csv
+git commit -m "added my survey"
+#+END_SRC
+
+You will want to save those to your github account as well.  So to
+finish, type:
 
 #+BEGIN_SRC sh :exports code
 git push origin firstName
