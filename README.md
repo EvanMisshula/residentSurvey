@@ -60,8 +60,8 @@ a fork of this repository and find the directory whose name is
 
 `firstName-lastName`
 
-where your last name is separated from your first with an underscore
-"\_".  For example, my name is Evan Misshula. My directory would be:
+where your last name is separated from your first with a dash
+"-".  For example, my name is Evan Misshula. My directory would be:
 
 `evan-misshula`
 
