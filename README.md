@@ -263,7 +263,7 @@ that you already set up.  Now that you know what you are looking for.
 Copy it to the clipboard by left-clicking the button. You clone it by
 typing:
 
-    git clone https@github.com:<your_github_username>/residentSurvey.git
+    git clone git@github.com:<your_github_username>/residentSurvey.git
 
 Now you have your own copy of the repo both on your machine and in your github account.
 If you want to work with the files in the `residentSurveys` directory, you should change into 

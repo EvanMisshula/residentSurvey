@@ -160,7 +160,7 @@ Copy it to the clipboard by left-clicking the button. You clone it by
 typing:
 
 #+BEGIN_SRC sh :exports code
-git clone https@github.com:<your_github_username>/residentSurvey.git
+git clone git@github.com:<your_github_username>/residentSurvey.git
 #+END_SRC
 
 Now you have your own copy of the repo both on your machine and in your github account.
