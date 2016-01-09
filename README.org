@@ -168,7 +168,7 @@ If you want to work with the files in the ~residentSurveys~ directory, you shoul
 that directory. To do this you should type:
 
 #+BEGIN_SRC sh :exports code
-cd residentSurveys
+cd residentSurvey
 #+END_SRC
 
 In an text editor, you can look at any of the files. You can also list the files by 
@@ -255,7 +255,7 @@ forked both the (fetch) where you pull from and where you push to
 be synced by the fork.
 
 #+BEGIN_SRC sh :exports code
-git remote add upstream git://github.com/EvanMisshula/residentSurveys.git
+git remote add upstream git://github.com/EvanMisshula/residentSurvey.git
 #+END_SRC
 
 ** Sync the fork
