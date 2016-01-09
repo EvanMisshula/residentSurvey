@@ -269,7 +269,7 @@ Now you have your own copy of the repo both on your machine and in your github a
 If you want to work with the files in the `residentSurveys` directory, you should change into 
 that directory. To do this you should type:
 
-    cd residentSurveys
+    cd residentSurvey
 
 In an text editor, you can look at any of the files. You can also list the files by 
 typing either `ls` or `dir` depending on your operating system.
@@ -348,7 +348,7 @@ forked both the (fetch) where you pull from and where you push to
 (push) are the same. Now specify a new upstream repository that will
 be synced by the fork.
 
-    git remote add upstream git://github.com/EvanMisshula/residentSurveys.git
+    git remote add upstream git://github.com/EvanMisshula/residentSurvey.git
 
 ## Sync the fork<a id="orgheadline25"></a>
 
