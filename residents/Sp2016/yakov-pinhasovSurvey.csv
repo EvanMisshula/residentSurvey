@@ -1,0 +1,140 @@
+ TTP Training,,,,,,,,,,,,,,,
+On a scale of 1 to 5:,,,,,,,,,,,,,,,
+5 Very useful,,,,,,,,,,,,,,,
+4 Useful,,,,,,,,,,,,,,,
+3 Somewhat useful,,,,,,,,,,,,,,,
+2 Probably not useful,,,,,,,,,,,,,,,
+1 Definitely a waste of time,1 – 5,,,,,,,,,,,,,,
+** HTML,,,,,,,,,,,,,,,
+Do you  feel that learning the Box Model of HTML was:,,,,,5,,,,,,,,,,
+,,,,,,,,,,,,,,,
+** CSS,,,,,,,,,,,,,,,
+Do you feel that learning css was:,,,,5,,,,,,,,,,,
+Do you feel that learning how to modify margins and padding was useful,,,,,,,5,,,,,,,,
+,,,,,,,,,,,,,,,
+** Terminal,,,,,,,,,,,,,,,
+I feel that learning the terminal commands,,,,,5,,,,,,,,,,
+,,,,,,,,,,,,,,,
+** Git and Collaboration,,,,,,,,,,,,,,,
+Do you feel that learning how to clone a repository was useful,,,,,,,5,,,,,,,,
+Do you feel that learning how to branch your repository was useful,,,,,,,5,,,,,,,,
+Do you feel that learning how to send a pull request was useful,,,,,,,5,,,,,,,,
+,,,,,,,,,,,,,,,
+** Food,,,,,,,,,,,,,,,
+"Do you feel that adequate food was provided: (1 lowest, 5 highest)",,,,,,,3,,,,,,,,
+    Quality,,,,,,,,,,,,,,,
+    Amount,,,,,,,,,,,,,,,
+    Variety,,,,,,,,,,,,,,,
+    Comments,,,,,,,,,,,,,,,
+The food is good but sometimes its not enough.,,,,,,,,,,,,,,,
+** Space,,,,,,,,,,,,,,,
+Was the room adequate for the materials:,,,,yes,,,,,,,,,,,
+Was the temprature comfortable,,,,yes,,,,,,,,,,,
+Were the chairs comfortable,,,,yes,,,,,,,,,,,
+Did you have adequate power,,,,yes,,,,,,,,,,,
+Would tables have been useful?,,,,no,,,,,,,,,,,
+Were you able to see the projector?,,,,yes,,,,,,,,,,,
+Was the wifi connection reliable?,,,,no. the wifi connection get disconnected very often and it takes time to reconnect.,,,,,,,,,,,
+Would you have preferred a wired connection?,,,,,no,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Laptops,,,,,,,,,,,,,,,
+Was it a burden for you to bring your laptop?,,,,,no,,,,,,,,,,
+Would you have preferred to use QC computers?,xxxxxxxxx,,,,no,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+** Instructor,,,,,,,,,,,,,,,
+Did the instructor have a good command of the material?,,,,,,yes,,,,,,,,,
+Was the instructor helpful?,,,,,,yes,,,,,,,,,
+Did the instructor care about your success?,,,,,,yes,,,,,,,,,
+Did the instructor maintain good pacing?,,,,,,yes,,,,,,,,,
+,,,,,,,,,,,,,,,
+**Classroom Technology,,,,,,,,,,,,,,,
+Was canvas helpful for you?,,,,,,yes it is really helpful to work with canvas,,,,,,,,,
+Did you find the etherpad helpful?,,,,,,yes its good to have a real time editor.,,,,,,,,,
+Did you resent about being asked to join:,,,,,,,,,,,,,,,
+    ,,,,,,,,,,,,,,,
+    A facebook group,,,,,,yes,,,,,,,,,
+    A Google+ group,,,,,,yes,,,,,,,,,
+    A LinkedIn group,,,,,,yes,,,,,,,,,
+    ,,,,,,,,,,,,,,,
+** TA,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Did the TA have a good command of the material?,,,,,,,,,,,,,,,
+Was the TA helpful?,,,,,,yes,,,,,,,,,
+Did the TA care about your success?,,,,,,yes,,,,,,,,,
+Did you find the resources helpful?,,,,,,yes,,,,,,,,,
+,,,,,,,,,,,,,,,
+** Forms,,,,,,,,,,,,,,,
+Do you understand why you had to fill out a Customer Information Form (Workforce 1 form about demographics employment status and work history)?,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,
+Do you understand why you had to sign the Individual Photo Release Form?,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,
+Do you understand why you had to sign that you received a copy of the Policies & Procedures Handbook and that you understood it?,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,
+Do you understand why you had to sign a form saying you read understood and agree that you are an eligible applicant for the TTP?,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,
+5 Most complaints.....1 no bother at all,,,,,,,,,,,,,,,
+'============================================================================================================,,,,,,,,,,,,,,,
+Do you have any complaints about the process of filling out these forms? ,,,,,,,,,,,,,,,1
+Do you have any complaints bout how long it took?,,,,,,,,,,,,,,,1
+Do you have any complaints about how organized it was?,,,,,,,,,,,,,,,1
+Do you resent signing any of this forms?,,,,,,,,,,,,,,,1
+,,,,,,,,,,,,,,,
+Do you understand why we have a code of conduct?,,,,,,,,,,,,,,,yes
+Do you understand why you can only work between 15 and 19 hours?,,,,,,,,,,,,,,,yes
+Do you understand that you cannot work more than 7 hours in a day? (PENDING),,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,
+Do you understand that you can only work during the week and only with a supervisor present?,,,,,,,,,,,,,,,yes
+Do you understand that you cannot work on weekends?,,,,,,,,,,,,,,,yes
+Do you understand that you cannot work from home or any remote location?,,,,,,,,,,,,,,,yes
+Do you understand that you can be terminated for reasons such as excessive lateness poor attendance and lack of professionalism?,,,,,,,,,,,,,,,yes
+Do you understand that you must set a schedule and set goals with your supervisor for the length of the program?,,,,,,,,,,,,,,,yes
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+** Tech stack –-----5 – understand/agree    …. 1 – total mystery/outdated,,,,,,,,,,,,,,,
+'============================================================================================================,,,,,,,,,,,,,,,
+Do you know the tech stack of your host company?,,,,,,,,,,,,,,,4
+Do you feel that the tech stack of your host company is up to date?,,,,,,,,,,,,,,,5
+Do you know your supervisors name and contact information?,,,,,,,,,,,,,,,5
+,,,,,,,,,,,,,,,
+** Placement  ----5 totally psyched....1 nervous/unsure,,,,,,,,,,,,,,,
+'============================================================================================================,,,,,,,,,,,,,,,
+Do you have any concerns about your placement?,,,,,,,,,,,,,,,5
+Do you know who your supervisor is?,,,,,,,,,,,,,,,5
+,,,,,,,,,,,,,,,
+** Concerns,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+** Omitted Questions,,,,,,,,,,,,,,,
+Please let us know any other questions we should be asking,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+* Queens CS Experience --- 5 great … 1 poor,,,,,,,,,,,,,,,
+'============================================================================================================,,,,,,,,,,,,,,,
+** Did you transfer? 1-Yes 2- No,,,,,,,,,,,,,,,1
+** Did you feel that you learned Java well?,,,,,,,,,,,,,,,1
+** Did you feel that you learned C++ well?,,,,,,,,,,,,,,,1
+** Did you feel that you know enough other languages?,,,,,,,,,,,,,,,2
+** Did you enjoy your time at Queens in CS?,,,,,,,,,,,,,,,1
+** Would you be interested in furthering your education in a formal CS MA/Phd program?,,,,,,,,,,,,,,,1
+** Did you work on any original research projects as a student at QC?,,,,,,,,,,,,,,,1
+** What was your favorite thing about your classes at QC?,,,,,,,,,,,,,,,Our elective classes are very intresting. They are the closest to what we can find in our future jobs
+** What did you feel helped you grow the most intellectually?,,,,,,,,,,,,,,,Every single classes helped me grow my intellectuallity
+** Did you feel the professors in CS treated you fairly?,,,,,,,,,,,,,,,yes
+** Do you think the full-time professors taught you more than the adjuncts?,,,,,,,,,,,,,,,yes 
+** Do you think the professors full time or adjunct were interested in your success?,,,,,,,,,,,,,,,yes and no it depands on the professor
+** How easy was it to get access to tutoring/extra help at QC for CS?,,,,,,,,,,,,,,,QC always provides tutoring 
+** Was the tutoring useful provided by QC useful?,,,,,,,,,,,,,,,yes very useful
+** Did you feel that the tutors were interested in your success?,,,,,,,,,,,,,,,yes
+** What did you enjoy most about QC CS?,,,,,,,,,,,,,,,our elective classes projects very chalnging and intresting. 
+** What questions should have I asked but did not?,,,,,,,,,,,,,,,do you think that QC provides updated programing language courses
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+I feel that freshman would benefit from including this in the CS curriculum – 5 Highly useful … 1 totally useless,,,,,,,,,,,,,,,
+'============================================================================================================,,,,,,,,,,,,,,,
+HTML,,,,,,,,,,,,,,,5
+CSS,,,,,,,,,,,,,,,5
+Terminal,,,,,,,,,,,,,,,5
+Git,,,,,,,,,,,,,,,5
+Collaborative Software Development,,,,,,,,,,,,,,,5
+Javascript,,,,,,,,,,,,,,,5
+Open Source Projects,,,,,,,,,,,,,,,5
