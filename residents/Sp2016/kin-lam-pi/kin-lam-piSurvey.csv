@@ -23,7 +23,7 @@ Do you feel that learning how to send a pull request was useful,;5
 ** Food,;
 Do you feel that adequate food was provided: (1 lowest, 5 highest),;
     Quality,;4
-    Amount,;3
+    Amount,;4
     Variety,;5
     Comments,;
     ,;
@@ -32,7 +32,7 @@ Was the room adequate for the materials:,;Yes
 Was the temprature comfortable,;Yes
 Were the chairs comfortable,;Yes
 Did you have adequate power,;Yes
-Would tables have been useful?,;Maybe
+Would tables have been useful?,;No
 Were you able to see the projector?,;Yes
 Was the wifi connection reliable?,;Yes
 Would you have preferred a wired connection?,;No
@@ -76,8 +76,8 @@ Do you understand why you had to sign a form saying you read understood and agre
 ,;
 5 Most complaints.....1 no bother at all,;
 '============================================================================================================,;
-Do you have any complaints about the process of filling out these forms? ,;1
-Do you have any complaints bout how long it took?,;1
+Do you have any complaints about the process of filling out these forms? ,;3
+Do you have any complaints bout how long it took?,;3
 Do you have any complaints about how organized it was?,;1
 Do you resent signing any of this forms?,;1
 ,;
@@ -121,7 +121,7 @@ Please let us know any other questions we should be asking,;
 ** What did you feel helped you grow the most intellectually?,;Not sure.
 ** Did you feel the professors in CS treated you fairly?,;Yes
 ** Do you think the full-time professors taught you more than the adjuncts?,;Yes
-** Do you think the professors full time or adjunct were interested in your success?,;If you put in the effort, then yes. Otherwise, not really.
+** Do you think the professors full time or adjunct were interested in your success?,;Yes if you put in the effort.
 ** How easy was it to get access to tutoring/extra help at QC for CS?,;It was busy the one time I went to tutoring.
 ** Was the tutoring useful provided by QC useful?,;No
 ** Did you feel that the tutors were interested in your success?,;Not really.
@@ -131,10 +131,10 @@ Please let us know any other questions we should be asking,;
 ,;
 I feel that freshman would benefit from including this in the CS curriculum – 5 Highly useful … 1 totally useless,;
 '============================================================================================================,;
-HTML,;1 if intro cs classes, 4 if upper level. Freshmen need more practice on programming languages, not markups. 
-CSS,;1 if intro cs classes, 4 if upper level. Freshmen need more practice on programming languages, not markups. 
-Terminal,;5. It's already taught in CS111.
-Git,;2 if intro classes, 5 if upper level. I think git will just confuse the newcomers. 
-Collaborative Software Development,;2. Lazy group members will ruin the experience.
-Javascript,;1 if intro cs classes, 4 if upper level.
-Open Source Projects,;1. I don't think most students are good enough to contribute much to significant open source projects.
+HTML,;3
+CSS,;3
+Terminal,;5
+Git,;5
+Collaborative Software Development,;2
+Javascript,;3
+Open Source Projects,;1
