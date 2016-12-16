@@ -67,11 +67,8 @@ Did you find the resources helpful?,N/A
 ,
 ** Forms,
 Do you understand why you had to fill out a Customer Information Form (Workforce 1 form about demographics employment status and work history)?,4
-,
 Do you understand why you had to sign the Individual Photo Release Form?,5
-,
 Do you understand why you had to sign that you received a copy of the Policies & Procedures Handbook and that you understood it?,5
-,
 Do you understand why you had to sign a form saying you read understood and agree that you are an eligible applicant for the TTP?,5
 ,
 5 Most complaints.....1 no bother at all,
@@ -92,7 +89,7 @@ Do you understand that you can be terminated for reasons such as excessive laten
 Do you understand that you must set a schedule and set goals with your supervisor for the length of the program?,5
 ,
 ,
-** Tech stack –-----5 – understand/agree    …. 1 – total mystery/outdated,
+** Tech stack -----5  understand/agree    . 1  total mystery/outdated,
 '============================================================================================================,
 Do you know the tech stack of your host company?,4
 Do you feel that the tech stack of your host company is up to date?,5
@@ -108,7 +105,7 @@ Do you know who your supervisor is?,5
 ** Omitted Questions,
 Please let us know any other questions we should be asking,N/A
 ,
-* Queens CS Experience --- 5 great … 1 poor,
+* Queens CS Experience --- 5 great  1 poor,
 '============================================================================================================,
 ** Did you transfer? 1-Yes 2- No,2
 ** Did you feel that you learned Java well?,1
@@ -129,7 +126,7 @@ Please let us know any other questions we should be asking,N/A
 ** What questions should have I asked but did not?,no
 ,
 ,
-I feel that freshman would benefit from including this in the CS curriculum – 5 Highly useful … 1 totally useless,
+I feel that freshman would benefit from including this in the CS curriculum  5 Highly useful  1 totally useless,
 '============================================================================================================,
 HTML,3
 CSS,3
