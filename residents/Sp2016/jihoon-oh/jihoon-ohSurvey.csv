@@ -70,9 +70,14 @@ Do you understand why you had to fill out a Customer Information Form (Workforce
 Do you understand why you had to sign the Individual Photo Release Form?,Yes
 Do you understand why you had to sign that you received a copy of the Policies & Procedures Handbook and that you understood it?,Yes
 Do you understand why you had to sign a form saying you read understood and agree that you are an eligible applicant for the TTP?,Yes
-
+,
+Do you understand why you had to sign the Individual Photo Release Form?,Yes
+,
+Do you understand why you had to sign that you received a copy of the Policies & Procedures Handbook and that you understood it?,Yes
+,
+Do you understand why you had to sign a form saying you read understood and agree that you are an eligible applicant for the TTP?,Yes
+,
 5 Most complaints.....1 no bother at all,
-============================================================================================================,
 Do you have any complaints about the process of filling out these forms?,5
 Do you have any complaints bout how long it took?,5
 Do you have any complaints about how organized it was?,5
@@ -90,13 +95,11 @@ Do you understand that you must set a schedule and set goals with your superviso
 ,
 ,
 ** Tech stack –-----5 – understand/agree    …. 1 – total mystery/outdated,
-============================================================================================================,
 Do you know the tech stack of your host company? ,5
 Do you feel that the tech stack of your host company is up to date? ,5
 Do you know your supervisors name and contact information? ,5
 ,
 ** Placement  ----5 totally psyched....1 nervous/unsure,
-============================================================================================================,
 Do you have any concerns about your placement?,5
 Do you know who your supervisor is?,5
 ,
@@ -106,7 +109,6 @@ Do you know who your supervisor is?,5
 Please let us know any other questions we should be asking,
 ,
 * Queens CS Experience --- 5 great … 1 poor,
-============================================================================================================,
 ** Did you transfer?,1-Yes
 ** Did you feel that you learned Java well?,5
 ** Did you feel that you learned C++ well? ,3
@@ -127,7 +129,6 @@ Please let us know any other questions we should be asking,
 ,
 ,
 I feel that freshman would benefit from including this in the CS curriculum – 5 Highly useful … 1 totally useless,
-============================================================================================================,
 HTML,5
 CSS,5
 Terminal,3
